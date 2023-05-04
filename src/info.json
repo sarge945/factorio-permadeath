@@ -1,0 +1,11 @@
+{
+	"name": "permadeath-mod",
+	"version": "1.0.0",
+	"title": "Permadeath Mod",
+	"contact": "plausiblesarge34@gmail.com",
+	"homepage": "https://discord.gg/2zRvrBXb6W",
+	"author": "Sarge945",
+	"description": "No respawning when your character dies. This is designed to stop attrition tactics. Not tested in Multiplayer",
+	"factorio_version": "1.1",
+	"dependencies": ["base >= 1.1.0"]
+}
