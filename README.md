@@ -10,5 +10,4 @@ Removing the ability to save/load is not currently in scope for this mod. It's r
 The mod icon is from
 [Icon Fonts](http://www.onlinewebfonts.com/icon/493570) and uses the CC 3.0 license
 
-
-To discuss the mod, please [join my Discord](https://discord.gg/2zRvrBXb6W)
+To discuss the mod, please [join my Discord](https://discord.gg/U9zRaSEpW4)
