@@ -1,6 +1,6 @@
 @echo off
 
-set modname=PermadeathMod_1.0.0
+set modname=PermadeathMod_1.0.1
 
 cd %~dp0
 rmdir /s /q "%~dp0out" 2>NUL
